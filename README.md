@@ -45,7 +45,8 @@
             margin: 20px;
 
         }
-        .navbar ul li a{
+        .navbar ul li a
+        {
            text-decoration: none;
            color: white;
         }
